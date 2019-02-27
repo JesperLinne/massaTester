@@ -15,7 +15,7 @@ isStringAValidePrice
 */
 
 //const utf8 = require('utf8');
-
+var hej = "hej";
 const readlineSync = (typeof module === "object") ? require("readline-sync") : {
   question: ((message) => prompt(message))
 };
@@ -162,7 +162,8 @@ function emptyList() {
 /*
 if (typeof module === "object") {
   module.exports = functions;
-}*/
+}
+*/
 
 
 
