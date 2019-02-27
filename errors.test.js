@@ -1,5 +1,5 @@
 const functions = require("./errors");
-
+/*
 
 test("Adds 2 + 2 to equal 4", () => {
     expect(2 + 2).toBe(4);
@@ -35,4 +35,4 @@ test("checks if obj1 to be like obj2", () => {
         
           });
   });
-
+*/
