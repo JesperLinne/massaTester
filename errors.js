@@ -14,7 +14,7 @@ isStringAValidePrice
 
 */
 
-const utf8 = require('utf8');
+//const utf8 = require('utf8');
 
 const readlineSync = (typeof module === "object") ? require("readline-sync") : {
   question: ((message) => prompt(message))
