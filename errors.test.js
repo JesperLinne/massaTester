@@ -1,10 +1,10 @@
 const functions = require("./errors");
-/*
 
 test("Adds 2 + 2 to equal 4", () => {
     expect(2 + 2).toBe(4);
 });
 
+/*
 test("Adds 2 + 2 to not equal 5", () => {
     expect(2 + 2).not.toBe(5);
 });
@@ -24,15 +24,15 @@ test("checks if obj1 to be like obj2", () => {
 
 
 
-  describe('functions', () => {
+describe('functions', () => {
 
-   test("check empty list", ()=> {
-          expect(functions.emptyList()).toEqual([]);
-      
-        });
-     test("check empty list", ()=> {
-            expect(functions.emptyList()).toEqual(0);
-        
-          });
+    test("check empty list", ()=> {
+        expect(functions.emptyList()).toEqual([]);
+
+    });
+    test("check empty list", ()=> {
+        expect(functions.emptyList()).toEqual(0);
+
+    });
   });
-*/
+       */
